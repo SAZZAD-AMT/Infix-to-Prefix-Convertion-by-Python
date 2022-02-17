@@ -1,5 +1,5 @@
 # Infix-to-Prefix-Convertion-by-Python
-
+```
 def isOperator(c):
     return (not (c >= 'a' and c <= 'z') and not(c >= '0' and c <= '9') and not(c >= 'A' and c <= 'Z'))
  
